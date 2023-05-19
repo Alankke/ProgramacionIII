@@ -1,0 +1,16 @@
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\bin\Debug\Moda-Prog3.exe.config
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\bin\Debug\Moda-Prog3.exe
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\bin\Debug\Moda-Prog3.pdb
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\obj\Debug\Moda-Prog3.csproj.AssemblyReference.cache
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\obj\Debug\Moda-Prog3.csproj.SuggestedBindingRedirects.cache
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\obj\Debug\Moda-Prog3.csproj.CoreCompileInputs.cache
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\obj\Debug\Moda-Prog3.exe
+C:\Users\alank\source\repos\Prog3\Moda-Prog3\obj\Debug\Moda-Prog3.pdb
+C:\Users\alank\source\repos\Prog3\Moda\bin\Debug\Moda-Prog3.exe.config
+C:\Users\alank\source\repos\Prog3\Moda\bin\Debug\Moda-Prog3.exe
+C:\Users\alank\source\repos\Prog3\Moda\bin\Debug\Moda-Prog3.pdb
+C:\Users\alank\source\repos\Prog3\Moda\obj\Debug\Moda-Prog3.csproj.AssemblyReference.cache
+C:\Users\alank\source\repos\Prog3\Moda\obj\Debug\Moda-Prog3.csproj.SuggestedBindingRedirects.cache
+C:\Users\alank\source\repos\Prog3\Moda\obj\Debug\Moda-Prog3.csproj.CoreCompileInputs.cache
+C:\Users\alank\source\repos\Prog3\Moda\obj\Debug\Moda-Prog3.exe
+C:\Users\alank\source\repos\Prog3\Moda\obj\Debug\Moda-Prog3.pdb

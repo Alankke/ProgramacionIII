@@ -1,0 +1,8 @@
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\obj\Debug\ManejoDeFechas.csproj.AssemblyReference.cache
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\obj\Debug\ManejoDeFechas.csproj.SuggestedBindingRedirects.cache
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\obj\Debug\ManejoDeFechas.csproj.CoreCompileInputs.cache
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\bin\Debug\ManejoDeFechas.exe.config
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\bin\Debug\ManejoDeFechas.exe
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\bin\Debug\ManejoDeFechas.pdb
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\obj\Debug\ManejoDeFechas.exe
+C:\Users\alank\source\repos\Prog3\ManejoDeFechas\obj\Debug\ManejoDeFechas.pdb

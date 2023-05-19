@@ -1,0 +1,16 @@
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\bin\Debug\Leccion-13-04.exe.config
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\bin\Debug\Leccion-13-04.exe
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\bin\Debug\Leccion-13-04.pdb
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\obj\Debug\Leccion-13-04.csproj.AssemblyReference.cache
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\obj\Debug\Leccion-13-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\obj\Debug\Leccion-13-04.csproj.CoreCompileInputs.cache
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\obj\Debug\Leccion-13-04.exe
+C:\Users\Avril\source\repos\Prog3\Leccion-13-04\obj\Debug\Leccion-13-04.pdb
+C:\Users\alank\source\repos\Prog3\Poo_Dado\bin\Debug\Leccion-13-04.exe.config
+C:\Users\alank\source\repos\Prog3\Poo_Dado\bin\Debug\Leccion-13-04.exe
+C:\Users\alank\source\repos\Prog3\Poo_Dado\bin\Debug\Leccion-13-04.pdb
+C:\Users\alank\source\repos\Prog3\Poo_Dado\obj\Debug\Leccion-13-04.csproj.AssemblyReference.cache
+C:\Users\alank\source\repos\Prog3\Poo_Dado\obj\Debug\Leccion-13-04.csproj.SuggestedBindingRedirects.cache
+C:\Users\alank\source\repos\Prog3\Poo_Dado\obj\Debug\Leccion-13-04.csproj.CoreCompileInputs.cache
+C:\Users\alank\source\repos\Prog3\Poo_Dado\obj\Debug\Leccion-13-04.exe
+C:\Users\alank\source\repos\Prog3\Poo_Dado\obj\Debug\Leccion-13-04.pdb
