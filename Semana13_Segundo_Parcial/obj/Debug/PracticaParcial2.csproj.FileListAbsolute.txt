@@ -1,0 +1,12 @@
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\bin\Debug\PracticaParcial2.exe.config
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\bin\Debug\PracticaParcial2.exe
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\bin\Debug\PracticaParcial2.pdb
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.AssemblyReference.cache
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.VentanaPrincipal.resources
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.IngresarNombre.resources
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.Properties.Resources.resources
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.GenerateResource.cache
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.csproj.CoreCompileInputs.cache
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.exe
+C:\Users\alank\source\repos\Prog3\PracticaParcial2\obj\Debug\PracticaParcial2.pdb
